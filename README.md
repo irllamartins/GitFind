@@ -1,3 +1,13 @@
+# GITFING
+<blockquote>Procura informações dos usuários e seus repositorios no Github</blockquote>
+
+![image](https://user-images.githubusercontent.com/39415559/209460096-62939da8-0c4d-4868-96c2-8a88615b9def.png)
+
+![image](https://user-images.githubusercontent.com/39415559/209460072-10297377-2ee9-47cf-ac80-328fce6e325e.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
